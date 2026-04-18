@@ -30,7 +30,7 @@ opportunities across the company's supplier base.
 - Enugu Cleaning Services and Ogun Packaging Ltd operating on expired 
   contracts — significant legal and compliance risk
 - Total cost savings of ₦3,029,000 achieved through negotiation
-- All 10 suppliers exceeded procurement budget
+- All 10 suppliers delivered under budget — strong cost control ✅
 - Direct procurement dominates spend at 55% of total
 
 ## Recommendations
@@ -39,9 +39,12 @@ opportunities across the company's supplier base.
 - Issue performance improvement plans to 8 underperforming suppliers
 - Consider replacing Ogun Packaging Ltd — below benchmark OTD, 
   highest defect rate and expired contract
-- Review and revise annual procurement budget to reflect actual 
-  business volumes
-- Strengthen SLA clauses in all supplier contracts
+- Maintain strong budget discipline — all suppliers currently 
+  delivering under budget, a significant achievement
+- Strengthen SLA clauses in all supplier contracts to enforce 
+  OTD performance improvements
+- Diversify supplier base — over reliance on underperforming 
+  suppliers is a systemic risk
 
 ## Files in this Repository
 - Zenith_Supplies_Procurement_Dashboard.pbix — Power BI Dashboard
